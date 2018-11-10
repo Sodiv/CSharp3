@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27703.2000
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoubleMatrix", "..\DoubleMatrix\DoubleMatrix\DoubleMatrix.csproj", "{1F157CCE-55DC-46CA-AB4A-CEBC123E530D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileAsync", "FileAsync\FileAsync.csproj", "{4E8FE2DB-8272-40A6-8081-937F35C6BD79}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{1F157CCE-55DC-46CA-AB4A-CEBC123E530D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F157CCE-55DC-46CA-AB4A-CEBC123E530D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F157CCE-55DC-46CA-AB4A-CEBC123E530D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E8FE2DB-8272-40A6-8081-937F35C6BD79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E8FE2DB-8272-40A6-8081-937F35C6BD79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E8FE2DB-8272-40A6-8081-937F35C6BD79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E8FE2DB-8272-40A6-8081-937F35C6BD79}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
